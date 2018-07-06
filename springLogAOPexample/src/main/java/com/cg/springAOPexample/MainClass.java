@@ -17,7 +17,6 @@ public class MainClass {
 		
 		try {
 			emp.check(-1);
-			
 		} catch (Exception e) {
 			
 			logger.info("message sent via log4j\n");

@@ -40,10 +40,11 @@ public class AspectClass {
 	
 	
 	@Around("execution(* com.cg.springAOPexample.*.*(..))")
-	public void read(ProceedingJoinPoint joinPoint) throws Throwable{
+	public Object read(ProceedingJoinPoint joinPoint) throws Throwable{
 		System.out.println("reading is called before");
-		joinPoint.proceed();
+		Object obj=joinPoint.proceed();
 		System.out.println("reading is over");
+		return obj;
 	}
 
 	@AfterThrowing("execution(* com.cg.springAOPexample.*.check(..))")

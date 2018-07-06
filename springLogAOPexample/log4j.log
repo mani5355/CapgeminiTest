@@ -34,3 +34,21 @@
 2018-07-05 12:42:14,366 INFO  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2957fcb0: startup date [Thu Jul 05 12:42:14 IST 2018]; root of context hierarchy
 2018-07-05 12:42:14,407 INFO  - Loading XML bean definitions from class path resource [springEmployee.xml]
 2018-07-05 12:42:14,590 INFO  - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5594a1b5: defining beans [org.springframework.aop.config.internalAutoProxyCreator,employee,AspectClass]; root of factory hierarchy
+2018-07-05 17:18:04,640 INFO  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2957fcb0: startup date [Thu Jul 05 17:18:04 IST 2018]; root of context hierarchy
+2018-07-05 17:18:04,685 INFO  - Loading XML bean definitions from class path resource [springEmployee.xml]
+2018-07-05 17:18:04,886 INFO  - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5594a1b5: defining beans [org.springframework.aop.config.internalAutoProxyCreator,employee,AspectClass]; root of factory hierarchy
+2018-07-05 17:27:50,615 INFO  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2957fcb0: startup date [Thu Jul 05 17:27:50 IST 2018]; root of context hierarchy
+2018-07-05 17:27:50,663 INFO  - Loading XML bean definitions from class path resource [springEmployee.xml]
+2018-07-05 17:27:50,866 INFO  - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5594a1b5: defining beans [org.springframework.aop.config.internalAutoProxyCreator,employee,AspectClass]; root of factory hierarchy
+2018-07-05 17:43:03,991 INFO  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2957fcb0: startup date [Thu Jul 05 17:43:03 IST 2018]; root of context hierarchy
+2018-07-05 17:43:04,031 INFO  - Loading XML bean definitions from class path resource [springEmployee.xml]
+2018-07-05 17:43:04,220 INFO  - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5594a1b5: defining beans [org.springframework.aop.config.internalAutoProxyCreator,employee,AspectClass]; root of factory hierarchy
+2018-07-05 19:01:01,372 INFO  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2957fcb0: startup date [Thu Jul 05 19:01:01 IST 2018]; root of context hierarchy
+2018-07-05 19:01:01,414 INFO  - Loading XML bean definitions from class path resource [springEmployee.xml]
+2018-07-05 19:01:01,674 INFO  - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5594a1b5: defining beans [org.springframework.aop.config.internalAutoProxyCreator,employee,AspectClass]; root of factory hierarchy
+2018-07-05 19:02:04,752 INFO  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2957fcb0: startup date [Thu Jul 05 19:02:04 IST 2018]; root of context hierarchy
+2018-07-05 19:02:04,792 INFO  - Loading XML bean definitions from class path resource [springEmployee.xml]
+2018-07-05 19:02:04,979 INFO  - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5594a1b5: defining beans [org.springframework.aop.config.internalAutoProxyCreator,employee,AspectClass]; root of factory hierarchy
+2018-07-05 19:03:47,924 INFO  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2957fcb0: startup date [Thu Jul 05 19:03:47 IST 2018]; root of context hierarchy
+2018-07-05 19:03:47,965 INFO  - Loading XML bean definitions from class path resource [springEmployee.xml]
+2018-07-05 19:03:48,151 INFO  - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5594a1b5: defining beans [org.springframework.aop.config.internalAutoProxyCreator,employee,AspectClass]; root of factory hierarchy
